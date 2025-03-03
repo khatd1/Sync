@@ -1,0 +1,30 @@
+C:\Users\ASUS\Desktop\Synchronous-And-Asynchronous\Asynchronous\Asynchronous\bin\Debug\net8.0\Asynchronous.exe
+C:\Users\ASUS\Desktop\Synchronous-And-Asynchronous\Asynchronous\Asynchronous\bin\Debug\net8.0\Asynchronous.deps.json
+C:\Users\ASUS\Desktop\Synchronous-And-Asynchronous\Asynchronous\Asynchronous\bin\Debug\net8.0\Asynchronous.runtimeconfig.json
+C:\Users\ASUS\Desktop\Synchronous-And-Asynchronous\Asynchronous\Asynchronous\bin\Debug\net8.0\Asynchronous.dll
+C:\Users\ASUS\Desktop\Synchronous-And-Asynchronous\Asynchronous\Asynchronous\bin\Debug\net8.0\Asynchronous.pdb
+C:\Users\ASUS\Desktop\Synchronous-And-Asynchronous\Asynchronous\Asynchronous\obj\Debug\net8.0\Asynchronous.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Synchronous-And-Asynchronous\Asynchronous\Asynchronous\obj\Debug\net8.0\Asynchronous.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Synchronous-And-Asynchronous\Asynchronous\Asynchronous\obj\Debug\net8.0\Asynchronous.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Synchronous-And-Asynchronous\Asynchronous\Asynchronous\obj\Debug\net8.0\Asynchronous.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Synchronous-And-Asynchronous\Asynchronous\Asynchronous\obj\Debug\net8.0\Asynchronous.sourcelink.json
+C:\Users\ASUS\Desktop\Synchronous-And-Asynchronous\Asynchronous\Asynchronous\obj\Debug\net8.0\Asynchronous.dll
+C:\Users\ASUS\Desktop\Synchronous-And-Asynchronous\Asynchronous\Asynchronous\obj\Debug\net8.0\refint\Asynchronous.dll
+C:\Users\ASUS\Desktop\Synchronous-And-Asynchronous\Asynchronous\Asynchronous\obj\Debug\net8.0\Asynchronous.pdb
+C:\Users\ASUS\Desktop\Synchronous-And-Asynchronous\Asynchronous\Asynchronous\obj\Debug\net8.0\Asynchronous.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Synchronous-And-Asynchronous\Asynchronous\Asynchronous\obj\Debug\net8.0\ref\Asynchronous.dll
+C:\Users\kha.td1\Desktop\New folder\Synchronous-And-Asynchronous\Asynchronous\Asynchronous\bin\Debug\net8.0\Asynchronous.exe
+C:\Users\kha.td1\Desktop\New folder\Synchronous-And-Asynchronous\Asynchronous\Asynchronous\bin\Debug\net8.0\Asynchronous.deps.json
+C:\Users\kha.td1\Desktop\New folder\Synchronous-And-Asynchronous\Asynchronous\Asynchronous\bin\Debug\net8.0\Asynchronous.runtimeconfig.json
+C:\Users\kha.td1\Desktop\New folder\Synchronous-And-Asynchronous\Asynchronous\Asynchronous\bin\Debug\net8.0\Asynchronous.dll
+C:\Users\kha.td1\Desktop\New folder\Synchronous-And-Asynchronous\Asynchronous\Asynchronous\bin\Debug\net8.0\Asynchronous.pdb
+C:\Users\kha.td1\Desktop\New folder\Synchronous-And-Asynchronous\Asynchronous\Asynchronous\obj\Debug\net8.0\Asynchronous.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kha.td1\Desktop\New folder\Synchronous-And-Asynchronous\Asynchronous\Asynchronous\obj\Debug\net8.0\Asynchronous.AssemblyInfoInputs.cache
+C:\Users\kha.td1\Desktop\New folder\Synchronous-And-Asynchronous\Asynchronous\Asynchronous\obj\Debug\net8.0\Asynchronous.AssemblyInfo.cs
+C:\Users\kha.td1\Desktop\New folder\Synchronous-And-Asynchronous\Asynchronous\Asynchronous\obj\Debug\net8.0\Asynchronous.csproj.CoreCompileInputs.cache
+C:\Users\kha.td1\Desktop\New folder\Synchronous-And-Asynchronous\Asynchronous\Asynchronous\obj\Debug\net8.0\Asynchronous.sourcelink.json
+C:\Users\kha.td1\Desktop\New folder\Synchronous-And-Asynchronous\Asynchronous\Asynchronous\obj\Debug\net8.0\Asynchronous.dll
+C:\Users\kha.td1\Desktop\New folder\Synchronous-And-Asynchronous\Asynchronous\Asynchronous\obj\Debug\net8.0\refint\Asynchronous.dll
+C:\Users\kha.td1\Desktop\New folder\Synchronous-And-Asynchronous\Asynchronous\Asynchronous\obj\Debug\net8.0\Asynchronous.pdb
+C:\Users\kha.td1\Desktop\New folder\Synchronous-And-Asynchronous\Asynchronous\Asynchronous\obj\Debug\net8.0\Asynchronous.genruntimeconfig.cache
+C:\Users\kha.td1\Desktop\New folder\Synchronous-And-Asynchronous\Asynchronous\Asynchronous\obj\Debug\net8.0\ref\Asynchronous.dll

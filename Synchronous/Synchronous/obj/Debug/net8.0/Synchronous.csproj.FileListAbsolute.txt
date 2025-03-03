@@ -1,0 +1,44 @@
+C:\Users\ASUS\Desktop\Synchronous\Synchronous\bin\Debug\net8.0\Synchronous.exe
+C:\Users\ASUS\Desktop\Synchronous\Synchronous\bin\Debug\net8.0\Synchronous.deps.json
+C:\Users\ASUS\Desktop\Synchronous\Synchronous\bin\Debug\net8.0\Synchronous.runtimeconfig.json
+C:\Users\ASUS\Desktop\Synchronous\Synchronous\bin\Debug\net8.0\Synchronous.dll
+C:\Users\ASUS\Desktop\Synchronous\Synchronous\bin\Debug\net8.0\Synchronous.pdb
+C:\Users\ASUS\Desktop\Synchronous\Synchronous\obj\Debug\net8.0\Synchronous.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Synchronous\Synchronous\obj\Debug\net8.0\Synchronous.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Synchronous\Synchronous\obj\Debug\net8.0\Synchronous.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Synchronous\Synchronous\obj\Debug\net8.0\Synchronous.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Synchronous\Synchronous\obj\Debug\net8.0\Synchronous.dll
+C:\Users\ASUS\Desktop\Synchronous\Synchronous\obj\Debug\net8.0\refint\Synchronous.dll
+C:\Users\ASUS\Desktop\Synchronous\Synchronous\obj\Debug\net8.0\Synchronous.pdb
+C:\Users\ASUS\Desktop\Synchronous\Synchronous\obj\Debug\net8.0\Synchronous.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Synchronous\Synchronous\obj\Debug\net8.0\ref\Synchronous.dll
+C:\Users\ASUS\Desktop\Synchronous-And-Asynchronous\Synchronous\Synchronous\bin\Debug\net8.0\Synchronous.exe
+C:\Users\ASUS\Desktop\Synchronous-And-Asynchronous\Synchronous\Synchronous\bin\Debug\net8.0\Synchronous.deps.json
+C:\Users\ASUS\Desktop\Synchronous-And-Asynchronous\Synchronous\Synchronous\bin\Debug\net8.0\Synchronous.runtimeconfig.json
+C:\Users\ASUS\Desktop\Synchronous-And-Asynchronous\Synchronous\Synchronous\bin\Debug\net8.0\Synchronous.dll
+C:\Users\ASUS\Desktop\Synchronous-And-Asynchronous\Synchronous\Synchronous\bin\Debug\net8.0\Synchronous.pdb
+C:\Users\ASUS\Desktop\Synchronous-And-Asynchronous\Synchronous\Synchronous\obj\Debug\net8.0\Synchronous.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Synchronous-And-Asynchronous\Synchronous\Synchronous\obj\Debug\net8.0\Synchronous.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Synchronous-And-Asynchronous\Synchronous\Synchronous\obj\Debug\net8.0\Synchronous.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Synchronous-And-Asynchronous\Synchronous\Synchronous\obj\Debug\net8.0\Synchronous.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Synchronous-And-Asynchronous\Synchronous\Synchronous\obj\Debug\net8.0\Synchronous.sourcelink.json
+C:\Users\ASUS\Desktop\Synchronous-And-Asynchronous\Synchronous\Synchronous\obj\Debug\net8.0\Synchronous.dll
+C:\Users\ASUS\Desktop\Synchronous-And-Asynchronous\Synchronous\Synchronous\obj\Debug\net8.0\refint\Synchronous.dll
+C:\Users\ASUS\Desktop\Synchronous-And-Asynchronous\Synchronous\Synchronous\obj\Debug\net8.0\Synchronous.pdb
+C:\Users\ASUS\Desktop\Synchronous-And-Asynchronous\Synchronous\Synchronous\obj\Debug\net8.0\Synchronous.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Synchronous-And-Asynchronous\Synchronous\Synchronous\obj\Debug\net8.0\ref\Synchronous.dll
+C:\Users\kha.td1\Desktop\New folder\Synchronous-And-Asynchronous\Synchronous\Synchronous\bin\Debug\net8.0\Synchronous.exe
+C:\Users\kha.td1\Desktop\New folder\Synchronous-And-Asynchronous\Synchronous\Synchronous\bin\Debug\net8.0\Synchronous.deps.json
+C:\Users\kha.td1\Desktop\New folder\Synchronous-And-Asynchronous\Synchronous\Synchronous\bin\Debug\net8.0\Synchronous.runtimeconfig.json
+C:\Users\kha.td1\Desktop\New folder\Synchronous-And-Asynchronous\Synchronous\Synchronous\bin\Debug\net8.0\Synchronous.dll
+C:\Users\kha.td1\Desktop\New folder\Synchronous-And-Asynchronous\Synchronous\Synchronous\bin\Debug\net8.0\Synchronous.pdb
+C:\Users\kha.td1\Desktop\New folder\Synchronous-And-Asynchronous\Synchronous\Synchronous\obj\Debug\net8.0\Synchronous.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kha.td1\Desktop\New folder\Synchronous-And-Asynchronous\Synchronous\Synchronous\obj\Debug\net8.0\Synchronous.AssemblyInfoInputs.cache
+C:\Users\kha.td1\Desktop\New folder\Synchronous-And-Asynchronous\Synchronous\Synchronous\obj\Debug\net8.0\Synchronous.AssemblyInfo.cs
+C:\Users\kha.td1\Desktop\New folder\Synchronous-And-Asynchronous\Synchronous\Synchronous\obj\Debug\net8.0\Synchronous.csproj.CoreCompileInputs.cache
+C:\Users\kha.td1\Desktop\New folder\Synchronous-And-Asynchronous\Synchronous\Synchronous\obj\Debug\net8.0\Synchronous.sourcelink.json
+C:\Users\kha.td1\Desktop\New folder\Synchronous-And-Asynchronous\Synchronous\Synchronous\obj\Debug\net8.0\Synchronous.dll
+C:\Users\kha.td1\Desktop\New folder\Synchronous-And-Asynchronous\Synchronous\Synchronous\obj\Debug\net8.0\refint\Synchronous.dll
+C:\Users\kha.td1\Desktop\New folder\Synchronous-And-Asynchronous\Synchronous\Synchronous\obj\Debug\net8.0\Synchronous.pdb
+C:\Users\kha.td1\Desktop\New folder\Synchronous-And-Asynchronous\Synchronous\Synchronous\obj\Debug\net8.0\Synchronous.genruntimeconfig.cache
+C:\Users\kha.td1\Desktop\New folder\Synchronous-And-Asynchronous\Synchronous\Synchronous\obj\Debug\net8.0\ref\Synchronous.dll
